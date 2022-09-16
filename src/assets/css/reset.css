@@ -1,0 +1,32 @@
+/* css reset */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+ul,
+li {
+  padding: 0;
+  margin: 0;
+}
+
+ul,ol,li {
+  list-style: none;
+}
+
+input,a {
+  outline: none;
+ 
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  vertical-align: top;
+}
